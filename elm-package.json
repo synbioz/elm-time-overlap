@@ -1,12 +1,14 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "summary": "Elm module for non overlapping events",
     "repository": "https://github.com/synbioz/elm-time-overlap.git",
     "license": "MIT",
     "source-directories": [
         "./src"
     ],
-    "exposed-modules": ["Time.Overlap"],
+    "exposed-modules": [
+        "Time.Overlap"
+    ],
     "dependencies": {
         "elm-lang/core": "5.0.0 <= v < 6.0.0"
     },
