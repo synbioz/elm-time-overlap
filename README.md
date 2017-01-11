@@ -20,4 +20,4 @@ unOverlap identity events == [ [ (1.0, 5.0)
                              ]
 ```
 
-Look at the tests for a example with a record.
+Look at the tests for an example with a record.
